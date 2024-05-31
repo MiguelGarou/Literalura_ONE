@@ -1,6 +1,7 @@
 # LIBRERIA VIRTUAL
 
 **- DESARROLLO DE LA APLICACIÓN CON JAVA Y SPRING**
+
 Consumo de APIs externas, persistencia de datos, como también el uso precuente de los datos.
 Catálogo de Libros que ofrece información y interacción textual en la consola, proporcionando al menos 7 opciones.
 La aplicació usa el api de Gutendex para realizar consultas y a la vez traer  resultados, así mostrando la información a atravez de la consola al usuario,
