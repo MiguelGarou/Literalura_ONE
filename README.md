@@ -8,6 +8,7 @@ consta de un sistema de guardado para los resultados buscados en la base de dato
 Creará tablas en la base de datos para guardarlos.
 
 **- INFORMACIÓN ADICIONAL**
+
 Tiene 7 opciones la cuales son:
   1) Buscar libro por titulo
   2) Listar libros registrados
